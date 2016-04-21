@@ -10,8 +10,7 @@
 shop : {
 	shopinfo:{
 		店铺信息
-	}，
-	
+	},
 	items:[
 		下属的几个商品
 		item1,
@@ -21,6 +20,7 @@ shop : {
 ```
 用 ExpandableListView 实现。
 
+<img src="screenshots/jd.png" width=360 height=640 />
 
 xcf 的数据格式是平级的：
 
@@ -34,3 +34,5 @@ xcf 的数据格式是平级的：
 ```
 
 用 ListView 实现。
+
+<img src="screenshots/xcf.png" width=360 height=640 />
