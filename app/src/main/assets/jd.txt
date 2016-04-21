@@ -1,0 +1,217 @@
+{
+  "imageDomain": "http://m.360buyimg.com/mobilecms/s300x300_",
+  "message": "",
+  "resultCode": 0,
+  "code": "0",
+  "cartInfo": {
+    "vendors": [
+      {
+        "vendorId": 8888,
+        "vendorType": 99,
+        "shopId": -1,
+        "shopName": "京东自营",
+        "hasCoupon": 1,
+        "vendorPrice": 291.2,
+        "freeFreight": 99,
+        "sorted": [
+          {
+            "itemType": 12,
+            "item": {
+              "NeedMoney": 39.0,
+              "Num": 1,
+              "Skus": [
+                {
+                  "Name": "Aptamil爱宝美 较大婴儿配方奶粉2段800g（原装进口 罐）6-12个月",
+                  "Num": 1,
+                  "ImgUrl": "jfs/t2194/167/1979359591/285546/5d01b53/56e7841bN59290866.jpg!q70.jpg.webp",
+                  "Discount": 92.0,
+                  "Id": "1217836",
+                  "PriceShow": "¥168.00",
+                  "Price": 260.0,
+                  "CheckType": 1,
+                  "specialId": "2"
+                }
+              ],
+              "RePrice": 0.0,
+              "Price": 168.0,
+              "Id": 188561747,
+              "PriceShow": "¥168.00",
+              "CheckType": 1,
+              "specialId": "0"
+            }
+          },
+          {
+            "itemType": 1,
+            "item": {
+              "Name": "疯狂Swift讲义（第2版）",
+              "Tags": [
+
+              ],
+              "Num": 2,
+              "ImgUrl": "jfs/t2038/181/2430918609/206076/eaea8854/56d7e35bNf82ebc2e.jpg!q70.jpg.webp",
+              "Id": "11883734",
+              "PriceShow": "¥61.60",
+              "PriceImg": "",
+              "RePrice": 0.0,
+              "Price": 61.6,
+              "CheckType": 1
+
+            }
+          }
+        ]
+      },
+      {
+        "vendorId": 165373,
+        "vendorType": 0,
+        "shopId": 159815,
+        "shopName": "芭步仕鞋靴专营店",
+        "hasCoupon": 0,
+        "vendorPrice": 1488.0,
+        "sorted": [
+          {
+            "itemType": 1,
+            "item": {
+              "Name": "芭步仕Burbupps 商务正装鞋系带头层牛皮婚鞋子真皮男士大头皮鞋 黑色-标准码 39",
+              "Num": 1,
+              "ImgUrl": "jfs/t1798/206/23379753/129486/4a5fdf2e/55cb46b8N73d69349.jpg!q70.jpg.webp",
+              "Id": "1682484928",
+              "PriceShow": "¥1488.00",
+              "PriceImg": "",
+              "RePrice": 0.0,
+              "Price": 1488.0,
+              "CheckType": 1
+            }
+          }
+        ]
+      },
+      {
+        "vendorId": 160259,
+        "vendorType": 0,
+        "shopId": 155083,
+        "shopName": "芭步仕旗舰店",
+        "vendorPrice": 189.0,
+        "sorted": [
+          {
+            "itemType": 1,
+            "item": {
+              "Name": "【抢名品 仅剩5双】法国芭步仕Burbupps 轻奢名品 贵族专供春季新品套脚豆豆鞋 棕色-标准码 37",
+              "Num": 1,
+              "ImgUrl": "jfs/t2605/232/506720448/170965/487feeab/57173879N1393466e.jpg!q70.jpg.webp",
+              "Discount": 1311.0,
+              "PriceShow": "¥189.00",
+              "Price": 1500.0,
+              "CheckType": 1,
+              "specialId": "2"
+            }
+          }
+        ]
+      },
+      {
+              "vendorId": 8888,
+              "vendorType": 99,
+              "shopId": -1,
+              "shopName": "京东自营222",
+              "hasCoupon": 1,
+              "vendorPrice": 291.2,
+              "freeFreight": 99,
+              "sorted": [
+                {
+                  "itemType": 12,
+                  "item": {
+                    "NeedMoney": 39.0,
+                    "Num": 1,
+                    "Skus": [
+                      {
+                        "Name": "Aptamil爱宝美 较大婴儿配方奶粉2段800g（原装进口 罐）6-12个月",
+                        "Num": 1,
+                        "ImgUrl": "jfs/t2194/167/1979359591/285546/5d01b53/56e7841bN59290866.jpg!q70.jpg.webp",
+                        "Discount": 92.0,
+                        "Id": "1217836",
+                        "PriceShow": "¥168.00",
+                        "Price": 260.0,
+                        "CheckType": 1,
+                        "specialId": "2"
+                      }
+                    ],
+                    "RePrice": 0.0,
+                    "Price": 168.0,
+                    "Id": 188561747,
+                    "PriceShow": "¥168.00",
+                    "CheckType": 1,
+                    "specialId": "0"
+                  }
+                },
+                {
+                  "itemType": 1,
+                  "item": {
+                    "Name": "疯狂Swift讲义（第2版）",
+                    "Tags": [
+
+                    ],
+                    "Num": 2,
+                    "ImgUrl": "jfs/t2038/181/2430918609/206076/eaea8854/56d7e35bNf82ebc2e.jpg!q70.jpg.webp",
+                    "Id": "11883734",
+                    "PriceShow": "¥61.60",
+                    "PriceImg": "",
+                    "RePrice": 0.0,
+                    "Price": 61.6,
+                    "CheckType": 1
+
+                  }
+                }
+              ]
+            },
+            {
+              "vendorId": 165373,
+              "vendorType": 0,
+              "shopId": 159815,
+              "shopName": "芭步仕鞋靴专营店222",
+              "hasCoupon": 0,
+              "vendorPrice": 1488.0,
+              "sorted": [
+                {
+                  "itemType": 1,
+                  "item": {
+                    "Name": "芭步仕Burbupps 商务正装鞋系带头层牛皮婚鞋子真皮男士大头皮鞋 黑色-标准码 39",
+                    "Num": 1,
+                    "ImgUrl": "jfs/t1798/206/23379753/129486/4a5fdf2e/55cb46b8N73d69349.jpg!q70.jpg.webp",
+                    "Id": "1682484928",
+                    "PriceShow": "¥1488.00",
+                    "PriceImg": "",
+                    "RePrice": 0.0,
+                    "Price": 1488.0,
+                    "CheckType": 1
+                  }
+                }
+              ]
+            },
+            {
+              "vendorId": 160259,
+              "vendorType": 0,
+              "shopId": 155083,
+              "shopName": "芭步仕旗舰店2222",
+              "vendorPrice": 189.0,
+              "sorted": [
+                {
+                  "itemType": 1,
+                  "item": {
+                    "Name": "【抢名品 仅剩5双】法国芭步仕Burbupps 轻奢名品 贵族专供春季新品套脚豆豆鞋 棕色-标准码 37",
+                    "Num": 1,
+                    "ImgUrl": "jfs/t2605/232/506720448/170965/487feeab/57173879N1393466e.jpg!q70.jpg.webp",
+                    "Discount": 1311.0,
+                    "PriceShow": "¥189.00",
+                    "Price": 1500.0,
+                    "CheckType": 1,
+                    "specialId": "2"
+                  }
+                }
+              ]
+            }
+
+    ],
+    "specialId": 6,
+    "Price": 1968.2,
+    "IsEmpty": false,
+    "PriceShow": "¥1968.20"
+  }
+}

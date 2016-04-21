@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/huangou_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="64dp"
+
+        android:visibility="gone"
+        tools:visibility="visible">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="换购"
+            android:textColor="#f00"/>
+
+        <TextView
+            android:id="@+id/huangou_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/huangou_right"
+            android:maxLines="2"
+            android:text="            这里会有很长的换购说明文字，目测通常是两行左右。这里会有很长的换购说明文字，目测通常是两行左右"/>
+
+        <TextView
+            android:id="@+id/huangou_right"
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center_horizontal"
+            android:text=">"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/huangou_content"
+            android:layout_gravity="right"
+            android:text="换购商品"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:padding="8dp"
+        android:layout_height="wrap_content">
+
+        <CheckBox
+            android:id="@+id/item_cb_select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:src="@mipmap/ic_launcher"
+            android:id="@+id/item_img"
+            android:layout_marginRight="8dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/item_name"
+                android:layout_width="match_parent"
+                android:maxLines="2"
+                tools:text="商品名最多2行商品名最多2行商品名最多2行商品名最多2行商品名最多2行商品名最多2行"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:id="@+id/item_price"
+                android:textColor="#f00"
+                android:text="$155"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
